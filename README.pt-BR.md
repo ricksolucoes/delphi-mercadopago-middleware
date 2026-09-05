@@ -2,7 +2,9 @@
 
 > Middleware REST de pagamentos para o Mercado Pago desenvolvido com Delphi, Horse e RESTRequest4Delphi, projetado com arquitetura em camadas, dependências explícitas e fronteiras de aplicação testáveis.
 
-[English](README.md) | **Português (Brasil)**
+🌐 **Documentação:** [English](README.md) | **Português (Brasil)**
+
+> Esta é a versão em Português do Brasil. O [README em inglês](README.md) é a versão canônica da documentação.
 
 ![Delphi](https://img.shields.io/badge/Delphi-10%2B-C71A36)
 ![Horse](https://img.shields.io/badge/Horse-REST%20Server-2F4F4F)
