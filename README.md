@@ -2,7 +2,9 @@
 
 > REST payment middleware for Mercado Pago built with Delphi, Horse and RESTRequest4Delphi, designed around layered architecture, explicit dependencies and testable application boundaries.
 
-**English** | [Português (Brasil)](README.pt-BR.md)
+🌐 **Documentation:** **English** | [Português (Brasil)](README.pt-BR.md)
+
+> This is the canonical documentation. A [Brazilian Portuguese translation](README.pt-BR.md) is also available.
 
 ![Delphi](https://img.shields.io/badge/Delphi-10%2B-C71A36)
 ![Horse](https://img.shields.io/badge/Horse-REST%20Server-2F4F4F)
